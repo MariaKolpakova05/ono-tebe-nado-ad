@@ -37,7 +37,7 @@
   padding-bottom: 4px;
 }
 
-a:-webkit-any-link  {
+a:-webkit-any-link {
   border-bottom: 1px solid black;
   text-decoration: none;
 }
